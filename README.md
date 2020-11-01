@@ -1,4 +1,4 @@
-<img src="https://danielecarta-docs.netlify.app/img/smartworking.jpg" />
+<img src="https://danielecarta.dev/img/me.png" />
 
 <h2>Hi! I'm Daniele, I'm a Frontend Developer 💻</h2>
 
