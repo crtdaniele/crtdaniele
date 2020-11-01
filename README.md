@@ -7,8 +7,8 @@ I love: ReactJS, React Native, Redux, Typescript, NodeJS, Javascript ES6. Now, I
 
 When I'm not at working (Illimity Bank) I like to write and create application for myself 🔥.
 
-I like to practice sport (Running and Calisthenics) and I like the mountain ⛰️
+I like to practice sport (Running and Calisthenics) and I like the mountain ⛰️.
 
-- <a target="_blank" href="https://danielecarta.dev/">@danielecarta.dev</a>
-- <a target="_blank" href="https://www.linkedin.com/in/daniele-carta-lugano/">@Follow me in LinkedIn</a>
+- <a target="_blank" href="https://danielecarta.dev/">danielecarta.dev</a>
+- <a target="_blank" href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
 - <a target="_blank" href="https://www.linkedin.com/groups/8959815/">@JavaScript Developers Italiani</a>
