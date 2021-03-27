@@ -12,6 +12,8 @@ If you want, you can follow me on:
 - <a target="_blank" href="https://danielecarta.dev/">danielecarta.dev</a>
 - <a target="_blank" href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
 - <a target="_blank" href="https://www.linkedin.com/groups/8959815/">@JavaScript Developers Italiani</a>
+- 
+<hr />
 
 <h3><strong>FRONTEND SKILLS</strong></h3>
 
