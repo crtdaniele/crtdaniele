@@ -7,7 +7,7 @@ When I'm not at working (in Illimity Bank) I like to write and create single-pag
 
 I like to practice sport (Running and Calisthenics) and I like the mountain ⛰️.
 
-Ah, I'm a CO-Founder of Javascript Developers Italiani (https://www.linkedin.com/groups/8959815/)
+If you want, you can follow me on:
 
 - <a target="_blank" href="https://danielecarta.dev/">danielecarta.dev</a>
 - <a target="_blank" href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
