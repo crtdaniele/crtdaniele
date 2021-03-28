@@ -6,6 +6,8 @@ Mainly my role in Illimity is a Lead Frontend Developer because I have the respo
 
 I like writing code with React, React Native, Javascript, HTML5, CSS3... Now I'll want to learn NextJS to improve my skills.
 
+Previously I worked for: Guess Europe SA (Frontend Developer) in Lugano, Ibox SA (Lead Frontend Developer) in Lugano.
+
 If you want, you can follow me on:
 
 - <a target="_blank" href="https://danielecarta.dev/">danielecarta.dev</a>
