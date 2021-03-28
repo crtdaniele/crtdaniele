@@ -1,9 +1,10 @@
-<h2>Hi! I'm Daniele Carta, I'm living in Milano and I'm a Frontend Developer 💻</h2>
-I love: ReactJS, React Native, Redux, Typescript, NodeJS, Javascript ES6. Now, I'm studing Svelte 🚀.
+<h2>Hi! I'm Daniele Carta 🚀</h2>
 
-When I'm not at working (in Illimity Bank) I like to write and create single-page application for myself 🔥.
+I'm living in Milano and and I'm a Frontend Developer 💻 for Illimity Bank!
+Currently I work in a team of more than 20 devs in a Fintech. In Illimity I work with ReactJS (for the web) and with React Native (for the app android and iOS).
+Mainly my role in Illimity is a Lead Frontend Developer because I have the responsability of a small team (5 people).
 
-I like to practice sport (Running and Calisthenics) and I like the mountain ⛰️.
+I like writing code with React, React Native, Javascript, HTML5, CSS3... Now I'll want to learn NextJS to improve my skills.
 
 If you want, you can follow me on:
 
