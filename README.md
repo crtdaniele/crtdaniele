@@ -1,5 +1,3 @@
-<img src="https://danielecarta.dev/img/me.png" />
-
 <h2>Hi! I'm Daniele Carta, I'm living in Milano and I'm a Frontend Developer 💻</h2>
 I love: ReactJS, React Native, Redux, Typescript, NodeJS, Javascript ES6. Now, I'm studing Svelte 🚀.
 
