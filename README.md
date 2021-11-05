@@ -1,7 +1,5 @@
 <h2>Hi! I'm Daniele Carta 🚀</h2>
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Next.js)](https://github.com/crtdaniele)
-
 I'm living in Milano and and I'm a Frontend Developer 💻 for Illimity Bank!
 Currently I work in a team of more than 20 devs in a Fintech. In Illimity I work with ReactJS (for the web) and with React Native (for the app android and iOS).
 Mainly my role in Illimity is a Lead Frontend Developer because I have the responsability of a small team (5 people).
