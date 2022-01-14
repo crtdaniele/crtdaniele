@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **new patterns, new architectures**
 
-- 👨‍💻 All of my projects are available at [danielecarta.me](danielecarta.me)
+- 👨‍💻 All of my projects are available at [https://www.danielecarta.me](danielecarta.me)
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@crtdaniele)
 
