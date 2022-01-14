@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [1 - A new boilerplate for React Application - CRA-ken is finally out!](https://dev.to/crtdaniele/1-a-new-boilerplate-for-react-application-cra-ken-is-finally-out-46p6)
+- [Custom Hooks vs Class vs Other... What is your choice?](https://dev.to/crtdaniele/custom-hooks-vs-class-vs-other-what-is-your-choice-1a3h)
+- [How to learn a new [programming language, framework, library] in 4 points?](https://dev.to/crtdaniele/how-to-learn-a-new-programming-language-framework-library-in-4-points-1po9)
+- [Beginners - Create a Slider with GlideJS in SvelteJS](https://dev.to/crtdaniele/beginners-create-a-slider-with-glidejs-in-sveltejs-8jc)
+- [The best plugins for VS Code - Frontend Developer](https://dev.to/crtdaniele/the-best-plugins-for-vs-code-frontend-developer-4d5p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
