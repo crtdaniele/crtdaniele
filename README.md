@@ -15,11 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trace your Unit tests progress with Codecov](https://medium.com/@crtdaniele/trace-your-unit-tests-progress-with-codecov-fdcd40b47691?source=rss-561695a85b23------2)
 - [Github Actions: How to deploy a React Application to Netlify](https://medium.com/@crtdaniele/github-actions-how-to-deploy-a-react-application-to-netlify-bf9698a45324?source=rss-561695a85b23------2)
-- [1 - A new boilerplate for React Application - CRA-ken is finally out!](https://dev.to/crtdaniele/1-a-new-boilerplate-for-react-application-cra-ken-is-finally-out-46p6)
-- [Custom Hooks vs Class vs Other... What is your choice?](https://dev.to/crtdaniele/custom-hooks-vs-class-vs-other-what-is-your-choice-1a3h)
-- [How to learn a new [programming language, framework, library] in 4 points?](https://dev.to/crtdaniele/how-to-learn-a-new-programming-language-framework-library-in-4-points-1po9)
-- [Beginners - Create a Slider with GlideJS in SvelteJS](https://dev.to/crtdaniele/beginners-create-a-slider-with-glidejs-in-sveltejs-8jc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
